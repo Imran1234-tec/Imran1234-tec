@@ -1,4 +1,6 @@
-hi, this is new git practice file 
-hello welcome to my world
-good morning
+hi, this is new git practice file
 
+=======
+hello world
+artifact name=my-app
+>>>>>>> 68ef20c1e8603fd69ab51807a0d77c0197fe1c8f
